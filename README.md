@@ -48,7 +48,10 @@ PHP 7.4.x
 MySQL 8.x
 Docker (コンテナ化された開発環境)
 Composer (PHPパッケージマネージャ)
+
 ER図
+/home/kozupad/coachtech/laravel/try/er-diagram.drawio
 
 URL
 開発環境: http://localhost/
+phpMyAdmin：http://localhost:8080/
